@@ -19,6 +19,7 @@ else:
 
 print("A media foi {}".format(media))
 '''
-lista = [input("Digite nomes")]
-print(lista)
+lista = ["carro", "moto", "jetsky", "avião","foguete"]
+for i in lista:
+    print(i)
 
